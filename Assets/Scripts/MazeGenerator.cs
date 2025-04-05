@@ -14,6 +14,7 @@ public class MazeGenerator : MonoBehaviour
 
     public GameObject player;
 
+
     const int N = 1;
     const int E = 2;
     const int S = 4;
@@ -43,6 +44,9 @@ public class MazeGenerator : MonoBehaviour
 
         GameObject p = GameObject.Instantiate(player);
         p.transform.position = new Vector3(2.91f, 1f, 4.6f);
+    
+
+        
     }
 
     private List<Vector2> CheckNeighbors(Vector2 cell, List<Vector2> unvisited) {
@@ -128,7 +132,8 @@ public class MazeGenerator : MonoBehaviour
 
         }
 
-    }
 
+    }
+        
     
 }
