@@ -1,12 +1,12 @@
-# Project05-FPS
+# Project04-Platformer
 An FPS Maze game.
 
 ## Implementation / Added features
 
  * Added multiple levels +1
  * Added creative use of lights or materials +1 (Gave player a spotlight to mimic a flashlight, added point lights to each coin chest and end point to give them a glowing effect)
- * Used different Models + 1 (Used Kenny's Pixel Platformer [Food Expansion](https://kenney.nl/assets/pixel-platformer-food-expansion) and [Farm Expansion](https://kenney.nl/assets/pixel-platformer-farm-expansion))
- * Added music and sound effects +1 (Sound effects made in chiptune and music by [marcelofg55](https://opengameart.org/content/pixel-adventures), [RandomMind](https://opengameart.org/content/chiptune-medieval-minstrel-dance), and [Pro Sensory](https://opengameart.org/content/talking-cute-chiptune))
+ * Used different Models + 1 (Credit in References)
+ * Added music and sound effects +1 (Sound effects made in chiptune and music credits in References)
  * Added extra enemies +1 (First level has randomly moving enemies. The second level has enemies that follow the player.)
 
 ## References
