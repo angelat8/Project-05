@@ -3,7 +3,7 @@ An FPS Maze game.
 
 ## Implementation / Added features
 
- * Added multiple levels +1
+ * Added multiple levels +1 (Player advances to the next level after reaching the blue gem)
  * Added creative use of lights or materials +1 (Gave player a spotlight to mimic a flashlight, added point lights to each coin chest and end point to give them a glowing effect)
  * Used different Models + 1 (Credit in References)
  * Added music and sound effects +1 (Sound effects made in chiptune and music credits in References)
